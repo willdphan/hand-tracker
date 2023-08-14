@@ -6,7 +6,7 @@ The provided code uses the `mediapipe `library to detect and track hands in real
 
 ## Features
 
-Hand Detector Class:
+**Hand Detector Class**
 
 Organized for easier reuse and integration into other projects.
 Detects hands and draws the landmarks and connections.
@@ -15,11 +15,11 @@ Retrieves the specific position of any landmark on the detected hands.<br/>
 [Module](/Users/williamphan/Desktop/hand-tracker/hand-tracker-module.py)
 <br/>
 
-Real-time FPS Calculation:
+**Real-time FPS Calculation**
 
 Monitor performance and processing speed.
 
-Simple Script:
+**Simple Script**
 
 A basic version that captures the video feed and detects hands without the need for a class structure.
 
