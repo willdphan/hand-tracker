@@ -2,7 +2,7 @@
 
 ## Overview
 
-The provided code uses the mediapipe library to detect and track hands in real-time through the camera feed. The hand detection includes identifying key landmarks on the hands and drawing them onto the image feed. The program calculates and displays the frames per second (FPS) for performance monitoring.
+The provided code uses the `mediapipe `library to detect and track hands in real-time through the camera feed. The hand detection includes identifying key landmarks on the hands and drawing them onto the image feed. The program calculates and displays the frames per second (FPS) for performance monitoring.
 
 ## Features
 
@@ -10,12 +10,14 @@ Hand Detector Class:
 
 Organized for easier reuse and integration into other projects.
 Detects hands and draws the landmarks and connections.
-Retrieves the specific position of any landmark on the detected hands.
+Retrieves the specific position of any landmark on the detected hands.<br/>
+
+[Module](/Users/williamphan/Desktop/hand-tracker/hand-tracker-module.py)
+<br/>
+
 Real-time FPS Calculation:
 
 Monitor performance and processing speed.
-
-[Module](/Users/williamphan/Desktop/hand-tracker/hand-tracker-module.py)
 
 Simple Script:
 
