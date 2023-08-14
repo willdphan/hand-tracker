@@ -31,7 +31,7 @@ Install the required libraries:
 
 Run the scripts
 
-`python <hand-tracker-module.py>.py`
+`python <hand-tracker-module.py>.py` <br/>
 `python <hand-tracker.py>.py`
 
 ---
