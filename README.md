@@ -1,7 +1,5 @@
 # Hand Tracker
 
-## Overview
-
 The provided code uses the `mediapipe `library to detect and track hands in real-time through the camera feed.
 
 The hand detection includes identifying key landmarks on the hands and drawing them onto the image feed. The program calculates and displays the frames per second (FPS) for performance monitoring.
